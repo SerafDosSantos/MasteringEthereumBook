@@ -1,0 +1,25 @@
+# Mastering Ethereum
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><br />
+
+Mastering Ethereum is released under the *Creative Commons CC-BY-SA license*.
+
+This "Free Culture" compliant license was approved by our publisher O'Reilly Media (http://oreilly.com), who understands the value of open source. O'Reilly Media is not just the world's best publisher of technical books, but is also a strong supporter of this open culture and the sharing of knowledge.
+
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Mastering Ethereum</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://ethereumbook.info" property="cc:attributionName" rel="cc:attributionURL">Andreas M. Antonopoulos, Gavin Wood</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/ethereumbook/ethereumbook" rel="dct:source">https://github.com/ethereumbook/ethereumbook</a>.
+
+## Chapters
++ Preface: preface.html[Preface]
++ Chapter 1: '[What Is Ethereum](01what-is.html)'
++ Chapter 2: '[Ethereum Basics](02intro.html)'
++ Chapter 3: '[Ethereum Clients](03clients.html)'
++ Chapter 4: '[Cryptography](04keys-addresses.html)'
++ Chapter 5: '[Wallets](05wallets.html)'
++ Chapter 6: '[Transactions](06transactions.html)'
++ Chapter 7: '[Smart Contracts and Solidity](07smart-contracts-solidity.html)'
++ Chapter 8: '[Smart Contracts and Vyper](08smart-contracts-vyper.html)'
++ Chapter 9: '[Smart Contract Security](09smart-contracts-security.html)'
++ Chapter 10: '[Tokens](10tokens.html)'
++ Chapter 11: '[Oracles](11oracles.html)'
++ Chapter 12: '[Decentralized Applications (DApps)](12dapps.html)'
++ Chapter 13: '[The Ethereum Virtual Machine](13evm.html)'
++ Chapter 14: '[Consensus](14consensus.html)'
