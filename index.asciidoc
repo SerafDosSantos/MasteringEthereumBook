@@ -8,7 +8,7 @@ This "Free Culture" compliant license was approved by our publisher O'Reilly Med
 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Mastering Ethereum</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://ethereumbook.info" property="cc:attributionName" rel="cc:attributionURL">Andreas M. Antonopoulos, Gavin Wood</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/ethereumbook/ethereumbook" rel="dct:source">https://github.com/ethereumbook/ethereumbook</a>.
 
 ## Chapters
-+ Preface: preface.html[Preface]
++ Preface: '[Preface](preface.html)'
 + Chapter 1: '[What Is Ethereum](01what-is.html)'
 + Chapter 2: '[Ethereum Basics](02intro.html)'
 + Chapter 3: '[Ethereum Clients](03clients.html)'
