@@ -1,3 +1,11 @@
+---
+
+### This is a fork and a subtree of [Mastering Ethereum](https://ethereumbook.info) by _Andreas M. Antonopoulos_ and _Gavin Wood_, available on GitHub for free -> [github.com/ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook)
+
+### This fork offers an HTML render of the AsciiDoc files available at [serafdossantos.github.io/MasteringEthereumBook](https://serafdossantos.github.io/MasteringEthereumBook)
+
+---
+
 # Mastering Ethereum
 
 ![Mastering Ethereum Cover](images/cover_thumb.png)
