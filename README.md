@@ -2,7 +2,7 @@
 
 ### This is a fork and a subtree of [Mastering Ethereum](https://ethereumbook.info) by _Andreas M. Antonopoulos_ and _Gavin Wood_, available on GitHub for free -> [github.com/ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook)
 
-### This fork offers an HTML render of the AsciiDoc files available at [maitriser-ca.github.io/MasteringEthereumBook/](https://maitriser-ca.github.io/MasteringEthereumBook/)
+### This fork offers an HTML render of the AsciiDoc files available at [www.maitriser.ca/MasteringEthereumBook/](http://www.maitriser.ca/MasteringEthereumBook/)
 
 ---
 
